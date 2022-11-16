@@ -26,7 +26,7 @@ public class Ejemplo04 {
                 + "2 coseno\n"
                 + "3 tangente");
         opcion = entrada.nextInt();
-        
+         
         System.out.println("Ingrese el valor en radianes");
         radianes = entrada.nextDouble();
         
